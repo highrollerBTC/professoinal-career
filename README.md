@@ -42,7 +42,7 @@ If you're looking for a **hard-working**, **loyal**, and **passionate Bitcoiner*
 
 ### 🌎 **Additional Information**
 
-- I'm a **US Citizen**, so if you're overseas, just keep that in mind.
+- I'm a **US Citizen**, EST Timezone, so if you're overseas, just keep that in mind.
 - I'm **very flexible**, so if you have an opportunity, please reach out!
 
 ---
