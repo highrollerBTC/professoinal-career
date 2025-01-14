@@ -18,7 +18,7 @@ If you're looking for someone who can be technical, here's what I bring:
 
 - **Tech Background**: Experience in IT and Cloud.
 - **Continuous Learner**: If your team needs me to pick up a new language, work on a new project or solve new problems, I'm very capable of research, planning and continous learning to grow my repertoire.
-- **Smart Contract Development**: Open source philosophy on **Stacks**, showcased in the [SRS repository](https://github.com/your-repo/SRS).
+- **Smart Contract Development**: Open source philosophy on **Stacks**, showcased in the [SRS repository](https://github.com/highrollerBTC/SR-ROS).
 - **Leadership**: Proven experience leading teams developing **full-stack applications on the cloud**.
 - **Communication Skills**: Skilled at communicating with **CXOs, engineers/developers, and customers** alike.
 
