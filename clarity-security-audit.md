@@ -50,6 +50,6 @@ If you need a Clarity audit or just contract help:
 Have questions? Need an audit? Just want to chat about Clarity?  
 👉 **Reach out to me!** I'm happy to help.
 
-You can reach out to me publicly or privately over DM   
+You can reach out to me publicly or privately over DM at Twitter.com/cryptofronts or X.com/cryptofronts.
 
 🚀 **Happy Building!**  
